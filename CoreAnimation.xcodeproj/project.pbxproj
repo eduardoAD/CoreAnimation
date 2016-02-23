@@ -13,6 +13,7 @@
 		E494D86E1C6950E8009A936D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E494D86C1C6950E8009A936D /* Main.storyboard */; };
 		E494D8701C6950E8009A936D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E494D86F1C6950E8009A936D /* Assets.xcassets */; };
 		E494D8731C6950E8009A936D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E494D8711C6950E8009A936D /* LaunchScreen.storyboard */; };
+		E494D87B1C6950F5009A936D /* Goku_ssj_2.png in Resources */ = {isa = PBXBuildFile; fileRef = E494D87A1C6950F5009A936D /* Goku_ssj_2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		E494D86F1C6950E8009A936D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E494D8721C6950E8009A936D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E494D8741C6950E8009A936D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E494D87A1C6950F5009A936D /* Goku_ssj_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Goku_ssj_2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				E494D8691C6950E8009A936D /* ViewController.h */,
 				E494D86A1C6950E8009A936D /* ViewController.m */,
 				E494D86C1C6950E8009A936D /* Main.storyboard */,
+				E494D87A1C6950F5009A936D /* Goku_ssj_2.png */,
 				E494D86F1C6950E8009A936D /* Assets.xcassets */,
 				E494D8711C6950E8009A936D /* LaunchScreen.storyboard */,
 				E494D8741C6950E8009A936D /* Info.plist */,
@@ -139,6 +142,7 @@
 				E494D8731C6950E8009A936D /* LaunchScreen.storyboard in Resources */,
 				E494D8701C6950E8009A936D /* Assets.xcassets in Resources */,
 				E494D86E1C6950E8009A936D /* Main.storyboard in Resources */,
+				E494D87B1C6950F5009A936D /* Goku_ssj_2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
